@@ -4,14 +4,14 @@ body, h1, h2, ul, li, p {
 }
 
 body {
-  background-color: #f7f7f7;
+  background-color: #f5e8e8;
   font-family: Arial, sans-serif;
-  color: #333;
+  color: #5a3636;
 }
 
 
 header {
-  background-color: #007acc;
+  background-color: #df9347;
   color: #fff;
   padding: 20px 0;
   text-align: center;
@@ -114,7 +114,7 @@ text-align: center;
 }
 th,td {
   border-width: 1px;
-  border-color: gray;
+  border-color: rgb(141, 115, 115);
 }
 .table {
   width: 100%;
